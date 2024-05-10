@@ -1,3 +1,7 @@
+//Moises Isaias Mendez Sanchez
+//2024-1687U
+//1M7-S
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class App {
